@@ -1,4 +1,4 @@
-## "Hello, how are you? My name is Gaby, I'm 16 years old and I'm a programming student. This is my profile, and I'm happy to invite you to take a look. Feel free to explore and I hope you like what you see! 😊"
+## "Hello. This is my profile, and I'm happy to invite you to take a look. Feel free to explore and I hope you like what you see! 😊"
 
 <hr>
 
