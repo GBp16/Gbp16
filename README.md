@@ -25,7 +25,7 @@
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a> 
  
-  <a href = "mailto: gabriellyv1244@gmail.com">
+  <a href = "https://mail.google.com/mail/u/0/?hl=pt-BR#inbox">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   <a href="https://www.linkedin.com/in/gabrielly-vit%C3%B3ria-6141882b3/" target="_blank">
