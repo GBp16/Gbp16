@@ -1,5 +1,6 @@
-## Hii!
+## "Hello, how are you? My name is Gaby, I'm 16 years old and I'm a programming student. This is my profile, and I'm happy to invite you to take a look. Feel free to explore and I hope you like what you see! 😊"
 
+<hr>
 
 - 📖 Atualmente, estou aprendendo HTML e CSS.
 - 😄 Pronomes: Ela/Dela
@@ -9,8 +10,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<hr>
  
- - 📫 Você pode entrar em contato comigo através do LinkedIn, Insta, gmail ou discord
+ -  Você pode entrar em contato comigo através do LinkedIn, Insta, gmail ou discord
    
  <a href="https://www.youtube.com/@pelocano_1471" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabs_v12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
