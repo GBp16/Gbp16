@@ -1,10 +1,10 @@
-<img width=100% bottom=50px src="https://i.pinimg.com/564x/5f/20/bc/5f20bc9fa56e1f1a0721f5938fc035ea.jpg"/>
+<img width=100% bottom=50px src="https://i.pinimg.com/564x/a1/50/49/a15049822a199bfc54e718d8e5e69ef3.jpg"/>
 <br>
 <br>
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=232770&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Gabrielly;I'm+16+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=603CA3&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Gabrielly;I'm+16+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 
 <br>
